@@ -21,7 +21,7 @@ Originally i found from [@bandithijo blog](https://bandithijo.github.io/blog/mem
 
 -----
 
-![Screenshot](https://github.com/Iyankdesu/imagemagick-screenshot/image.png)
+![Screenshot](https://github.com/Iyankdesu/imagemagick-screenshot/blob/master/image.png)
 
 
 
